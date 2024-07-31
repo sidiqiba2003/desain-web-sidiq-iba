@@ -71,11 +71,9 @@
     background-image: url(senja.jpg);
     border: #055296;
 font-family: 'Times New Roman', Times, serif;
-background-color: #ffffff;
-
-
-    
-    
+color: #ffffff;
+text-align: right;
+   
   }
   
   #audio-video {
