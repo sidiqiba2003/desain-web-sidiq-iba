@@ -70,8 +70,10 @@
   #profil {
     background-image: url(senja.jpg);
     border: #055296;
-    
-    
+font-family: 'Times New Roman', Times, serif;
+color: #ffffff;
+text-align: right;
+   
   }
   
   #audio-video {
@@ -80,6 +82,7 @@
   
   #tentang {
     background-image: url(pexels-ollivves-1047051.jpg);
+  
   }
   
   #FAKTA {
@@ -114,4 +117,5 @@
     border: right;
     
   }
+  
   
